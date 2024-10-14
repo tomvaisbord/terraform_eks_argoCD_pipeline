@@ -14,5 +14,4 @@ terraform.tfstate
 terraform.tfstate.backup
 terraform_eks_argoCD_pipeline/.git
 .terraform/
-
-.terraform/
+.gitignore
