@@ -1,0 +1,18 @@
+#ignoring all files
+test/
+python/.idea/
+python/tests/
+python/pycache
+*.pem
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
+*key*
+*keys*
+*.pub
+terraform.tfstate
+terraform.tfstate.backup
+terraform_eks_argoCD_pipeline/.git
+.terraform/
+
+.terraform/
